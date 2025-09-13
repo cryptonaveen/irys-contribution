@@ -35,9 +35,9 @@ irys fund 1000000 \
 ```
 → The fund amount is in wei
 
-→ Replace Private_key with your actual key (without 0x)
+→ Replace `Private_key` with your actual key (without 0x)
 
-→ Replace RPC_URL with your selected network - as said above
+→ Replace `RPC_URL` with your selected network - as said above
 
 ## Check Balance
 ```
@@ -46,12 +46,12 @@ irys balance WALLET_ADDRESS \
   -n devnet \
   --provider-url RPC_URL
 ```
-→ Replace WALLET_ADDRESS with your actual address : and RPC_URL also
+→ Replace `WALLET_ADDRESS` with your actual address : and `RPC_URL` also
 ## Upload a File
 
 → visit this pc in your laptop/pc > ubuntu > root folder > paste any img/video (not personal stuff)
 
-→ visit ubuntu : paste ls -a to verify the file
+→ visit ubuntu : paste ```ls -a``` to verify the file
 
 # Now paste command
 ```
@@ -63,13 +63,13 @@ irys upload FILE_NAME \
   --provider-url RPC_URL
 ```
 
-→ change FILE_NAME to actual file
+→ change `FILE_NAME` to actual file
 
-→ change PRIVATE_KEY to real key (without 0x)
+→ change `PRIVATE_KEY` to real key (without 0x)
 
-→ change FILE_NAME and FILE_FORMAT (JPG,MP4,MKV)
+→ change `FILE_NAME` and `FILE_FORMAT` (JPG,MP4,MKV)
 
-→ change RPC_URL to your RPC
+→ change `RPC_URL` to your RPC
 
 # Done ☑️ 
 
