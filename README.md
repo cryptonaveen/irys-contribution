@@ -34,7 +34,9 @@ irys fund 1000000 \
   --provider-url RPC_URL
 ```
 → The fund amount is in wei
+
 → Replace Private_key with your actual key (without 0x)
+
 → Replace RPC_URL with your selected network - as said above
 
 ## Check Balance
@@ -62,8 +64,11 @@ irys upload FILE_NAME \
 ```
 
 → change FILE_NAME to actual file
-→ change PRIVATE_KEY to real key (without 0x) - use burner wallet
+
+→ change PRIVATE_KEY to real key (without 0x)
+
 → change FILE_NAME and FILE_FORMAT (JPG,MP4,MKV)
+
 → change RPC_URL to your RPC
 
 # Done ☑️ 
